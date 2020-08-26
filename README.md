@@ -19,3 +19,20 @@ git remote add origin 仓库地址
 git push -u origin master
 ```
 
+
+
+# Git 客户端选择
+
+一般推荐以下两种：
+
+1. TortoiseGit
+
+   下载地址：https://tortoisegit.org/download/
+
+2. Source Tree
+
+   下载地址：https://www.sourcetreeapp.com/
+
+
+
+# Git 基本命令
